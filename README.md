@@ -3,13 +3,13 @@ Jeg er en 21 år gammel informatikkstudent med ekstra forkjærlighet for godt de
 Basert i Oslo. 
 
 ### 📦 Programmeringsspråk og verktøy 
-**Frontend:** `Jetpack Compose` `Material 3`
-<br>
-**Versjonshåndtering:** `Git`
-<br>
-**Programmeringsspråk:** `Java` `Kotlin` `Python`
-<br>
-**Design:** `Figma` `Miro`
+**Frontend:** `Jetpack Compose` `Material 3`  
+  
+**Versjonshåndtering:** `Git`  
+   
+**Programmeringsspråk:** `Java` `Kotlin` `Python`   
+   
+**Design:** `Figma` `Miro`   
 
 
 ### ✨ Fun Facts
