@@ -14,8 +14,8 @@ Basert i Oslo.
 
 ### ✨ Fun Facts
 * Favorittserien min er Arcane.
-* Da jeg var liten ville jeg bli statsminister.
-* Jeg er glad i både Mac og Windows. 
+* Da jeg var liten, ville jeg bli statsminister.
+* Jeg liker både Mac og Windows. 
 
 
 ### 📬 Kontakt 
