@@ -4,9 +4,12 @@ Basert i Oslo.
 
 ## 📦 Programmeringsspråk og verktøy 
 **Frontend:** `Jetpack Compose` `Material 3`  
+<br>
 **Versjonshåndtering:** `Git`   
+<br>
 **Programmeringsspråk:** `Java` `Kotlin` `Python`  
-**Design:** `Figma` `Miro`
+<br>
+**Design:** `Figma` `Miro`  
 
 
 ## ✨ Fun Facts
