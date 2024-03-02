@@ -1,12 +1,12 @@
 ### Hei, jeg heter Victoria 👋🏼
-Jeg er en 21 år gammel informatikkstudent med ekstra forkjærlighet for godt design. 
+Jeg er en 21 år gammel informatikkstudent med ekstra forkjærlighet for godt design.   
 Basert i Oslo. 
 
 ## 📦 Programmeringsspråk og verktøy 
-**Frontend:** 'Jetpack Compose' 'Material 3'
-**Versjonshåndtering:** 'Git'
-**Programmeringsspråk:** 'Java' 'Kotlin' 'Python' 
-**Design:** Link til portefølje kommer! 
+**Frontend:** 'Jetpack Compose' 'Material 3'  
+**Versjonshåndtering:** 'Git'  
+**Programmeringsspråk:** 'Java' 'Kotlin' 'Python'  
+**Design:** Link til portefølje kommer!   
 
 
 ## ✨ Fun Facts
