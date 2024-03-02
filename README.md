@@ -15,4 +15,4 @@ Jeg er en 21 år gammel informatikkstudent basert i Oslo, og jeg har en ekstra f
 
 
 ## 📬 Kontakt 
-For rask respons, kontakt meg via [LinkedIn](https://www.linkedin.com/in/victoria-kolsing/). 
+Kontakt meg gjerne via [LinkedIn](https://www.linkedin.com/in/victoria-kolsing/). 
