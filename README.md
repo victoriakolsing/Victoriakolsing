@@ -14,9 +14,9 @@ Basert i Oslo.
 
 ## ✨ Fun Facts
 * Favorittserien min er Arcane.
-* Da jeg var liten, ville jeg bli statsminister.
-* Jeg liker både Mac og Windows. 
+* Da jeg var liten drømte jeg om å bli statsminister.
+* Jeg trives både med Mac og Windows. 
 
 
-## 📬 Kontakt 
+## 💌 Kontakt 
 Kontakt meg gjerne via [LinkedIn](https://www.linkedin.com/in/victoria-kolsing/). 
