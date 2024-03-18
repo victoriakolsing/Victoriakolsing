@@ -2,7 +2,7 @@
 Jeg er en 21 år gammel informatikkstudent med ekstra forkjærlighet for godt design.   
 
 ## 📦 Programmeringsspråk og verktøy 
-**Frontend:** `Jetpack Compose` `Material 3` `React`  
+**Frontend:** `Jetpack Compose` `Material 3` `React.js`  
 **Versjonshåndtering:** `Git`  
 **Programmeringsspråk:** `Java` `Kotlin` `Python`   
 **Design:** `Figma` `Miro`   
